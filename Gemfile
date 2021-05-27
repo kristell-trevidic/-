@@ -49,3 +49,8 @@ gem 'rspec-rails', group: [ :test ]
 # Import the teacher spec to be able to rake our progress
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# Gem for Bootstrap and Javascript dependencies
+gem 'autoprefixer-rails', '10.2.5'
+gem 'font-awesome-sass', '~> 5.12.0'
+gem 'simple_form'
